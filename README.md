@@ -21,8 +21,8 @@ Actualmente estoy construyendo mi perfil como desarrollador junior, documentando
 
 ## 📁 Repositorios destacados
 
-- [Ejercicios Java](https://github.com/AnsuxDEV/ejercicios-java): estructuras de datos, CRUD, consola
-- [Ejercicios Python](https://github.com/AnsuxDEV/ejercicios-python): scripts básicos, lógica, automatización
+- [Ejercicios Java](https://github.com/AnsuxDEV/JavaDAM): estructuras de datos, CRUD, consola
+- [Ejercicios Python](https://github.com/AnsuxDEV/Python): scripts básicos, lógica, automatización
 - *(Próximamente)* Más!
 
 ---
