@@ -1,16 +1,44 @@
 ## Hi there 👋
+# 👋 ¡Hola! Soy Sergio Carrasco Ruiz
 
-<!--
-**AnsuxDEV/AnsuxDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), con formación técnica en Robótica Industrial y Sistemas Microinformáticos. Me apasiona el desarrollo de software, la automatización industrial y la creación de soluciones tecnológicas que aporten valor real.
 
-Here are some ideas to get you started:
+Actualmente estoy construyendo mi perfil como desarrollador junior, documentando mis prácticas en Java y Python, y compartiendo proyectos técnicos que reflejan mi evolución profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes**: Java, HTML, C++ (básico), Python (en formación)
+- **Bases de datos**: SQL (en formación), MySQL Workbench
+- **Automatización**: SCADA, PLC SIEMENS, TIA Portal
+- **Hardware**: Arduino (en formación)
+- **Entornos**: Eclipse, IntelliJ IDEA, Visual Studio Code, Android Studio (en formación)
+- **Control de versiones**: Git, GitHub
+- **Sistemas operativos**: Windows, Linux (intermedio)
+
+---
+
+## 📁 Repositorios destacados
+
+- [Ejercicios Java](https://github.com/AnsuxDEV/ejercicios-java): estructuras de datos, CRUD, consola
+- [Ejercicios Python](https://github.com/AnsuxDEV/ejercicios-python): scripts básicos, lógica, automatización
+- *(Próximamente)* Más!
+
+---
+
+## 🎯 Objetivo
+
+Busco realizar prácticas en desarrollo de software donde aplicar mis conocimientos en programación, bases de datos y automatización. Mi objetivo es contribuir activamente al desarrollo de soluciones tecnológicas mientras amplío mi experiencia profesional en el sector IT.
+
+---
+
+## 📫 Contacto
+
+- 📧 sergio.carru@gmail.com  
+- 📍 Jerez de la Frontera, Cádiz  
+- 💼 [LinkedIn (en construcción)]
+
+---
+
+Gracias por visitar mi perfil. ¡Estoy en constante aprendizaje y abierto a colaborar en proyectos tecnológicos!
